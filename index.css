@@ -43,7 +43,7 @@ li a :hover {
   width: 100%;
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  background-image: url('tj2edit.jpg');
+  background-image: url('tj3edit.jpg');
   background-position: center;
   background-color: red;
   
@@ -84,17 +84,17 @@ li a :hover {
 
 .parallax { 
     /* The image used */
-    background-image: url("pic3.png");
+    background-image: url("tj2edit.jpg");
 
     /* Set a specific height */
-    height: 500px; 
+    height: 800px; 
     width: 100%;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 150% 200%;
+    background-size: 100% 100%;
 }
 @-webkit-keyframes rotation {
     from {
