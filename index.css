@@ -10,11 +10,11 @@ h1{
  font-family: 'UnifrakturCook', cursive;
  color: red;
 position: absolute;
-top: 200px;
-left: 80px;
+top: 12vmax;
+left: 4vmax;
 
  text-shadow: 2px 2px white;
- font-size: 70pt;
+ font-size: 6vmax;
 }
 ul {
     list-style-type: none;
