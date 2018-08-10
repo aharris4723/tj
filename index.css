@@ -89,11 +89,15 @@ li a :hover {
    /*left:0px;*/
    padding-bottom: 80px;
    bottom:0px;
-   height:60px;
+   height:10%;
    width:100%;
    background:black;
    color:white;
 
+}
+#art-by-tj-title{
+  text-align: right;
+  margin-right: 5%;
 }
 #footer-image{
   border: 2px solid white;
@@ -103,11 +107,14 @@ li a :hover {
   /*margin-top: 30px;
   margin-left: 30px;
   margin-bottom: 30px;*/
-  padding-bottom: 50px;
+  /*padding-bottom: 50px;*/
   background-image: url('pic4.png');
   background-position: center;
   background-size: 120% 200%;
-  float: left;
+  text-align: right;
+}
+a{
+  margin-top: -200px;
 }
 #pageone{
   background-image: url('pic1.png');
@@ -200,6 +207,21 @@ p{
 .fa:hover {
     opacity: 0.7;
 }
+/*comics section*/
+#combos-title{
+  background-color: black;
+  color: white;
+  text-shadow: 10px 10px red;
+  font-size: 72px;
+  /*border-bottom: 2px solid white;*/
+  box-shadow: 5px 5px 5px red;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+
+
+
+
 * {box-sizing:border-box}
 
 /* Slideshow container */
