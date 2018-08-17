@@ -16,22 +16,7 @@
         <li style="float: right;"><a href="contact.html">Contact</a></li>
        
       </ul>
-	<div class="wrapper">
-		
-		
-   <!--  <div id="pageone"> -->
-    	<!-- <h1 id="title-h1">tj</h1> -->
-    </div>
-    <!-- <div id="orb"></div> 
-    <div id="orb2"></div> 
-    <div id="orb3"></div> 
-	 -->
-	<div class="parallax"></div>
-	<div id="jiren"></div>
-	<!-- <div id="page2"></div> -->
-	<div class="parallax" id="parallax2"></div> 
-	<!-- <div id='vegeta'></div> -->
-</div>
+	<h1 style="text-align: center;">album art</h1>
 	
  <footer class="footer">
  	<h1 id="art-by-tj-title">Art by TJ</h1>
