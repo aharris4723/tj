@@ -11,12 +11,12 @@
 	<ul>
 		<li><a href='index.html'>Home</a></li> 
         <li><a href='comics.html'>Comics</a></li> 
-         <li><a href='albums'>Album art</a></li>
+         <li><a href='albums'>Album Art</a></li>
         <li><a href='aboutme.html'>About Me</a></li>
         <li style="float: right;"><a href="contact.html">Contact</a></li>
        
       </ul>
-	<h1 style="text-align: center;">album art</h1>
+	<h1 style="text-align: center; box-shadow: 5px 5px 5px red;">Album Art</h1>
 	
  <footer class="footer">
  	<h1 id="art-by-tj-title">Art by TJ</h1>
