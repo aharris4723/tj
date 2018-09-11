@@ -93,29 +93,32 @@ li a :hover {
    width:100%;
    background:black;
    color:white;
+   display: flex;
+   flex-direction: row;
+   justify-content:space-around;
+   align-items: baseline;
+
 
 }
 #art-by-tj-title{
-  text-align: right;
-  margin-right: 5%;
+  align-items: space-between;
+  margin-left: 30px;
+  display: flex;
 }
 #footer-image{
   border: 2px solid white;
   border-radius: 50%;
   width: 70px;
   height: 70px;
-  /*margin-top: 30px;
-  margin-left: 30px;
-  margin-bottom: 30px;*/
-  /*padding-bottom: 50px;*/
+  align-items: space-between;
+  padding: 30px;
   background-image: url('pic4.png');
   background-position: center;
   background-size: 120% 200%;
-  text-align: right;
+  display: flex;
+  
 }
-a{
-  margin-top: -200px;
-}
+
 #pageone{
   background-image: url('pic1.png');
   background-color: red;
@@ -213,6 +216,7 @@ p{
   color: white;
   text-shadow: 2px 2px red;
   font-size: 72px;
+  margin-top: 10px;
   /*border-bottom: 2px solid white;*/
   box-shadow: 5px 5px 5px red;
   font-family: 'Luckiest Guy', cursive;
@@ -229,6 +233,7 @@ p{
   max-width: 1000px;
   position: relative;
   margin: auto;
+
 }
 
 /* Hide the images by default */
