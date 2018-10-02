@@ -19,9 +19,9 @@
 	<h1 style="text-align: center; box-shadow: 5px 5px 5px red;">Album Art</h1>
 	
  <footer class="footer">
- 	<h1 id="art-by-tj-title">Art by TJ</h1>
- 	<!-- <div id="footer-image"></div> -->
-
+ 	
+ 	<div id="footer-image"></div>
+    <h1 id="art-by-tj-title">Art by TJ</h1>
  	<a href="https://www.instagram.com/magicaldoobiehuffer" class="fa fa-instagram" style="font-size:2vmax;color:red"></a>
  	
  </footer>
